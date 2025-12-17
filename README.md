@@ -3,6 +3,8 @@ Developed a comprehensive Sales Analytics dashboard using Microsoft Excel to ana
 
 ## 📁 Project Overview
 
+![Project Pipeline](https://github.com/ranamuskaan/Excel-Sales-Analytics/blob/main/SALES.png)
+
 This repository contains the following Excel reports:
 
 - **Customer Report:**  
